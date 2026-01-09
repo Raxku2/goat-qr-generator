@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🐐 GOAT QR Generator
+# <img src="https://raw.githubusercontent.com/Raxku2/Animated-Fluent-Emojis/refs/heads/master/Emojis/Animals/Goat.png" height="40" /> GOAT QR Generator
 
 **Fast • Secure • Minimal Online QR Code Generator**
 
