@@ -43,6 +43,19 @@ This project focuses on:
 
 ---
 
+## 🔌 Backend API
+
+GOAT QR Generator is powered by a custom backend service called **GOAT QR API**.
+
+- Built from scratch using **Python & FastAPI**
+- Handles secure and efficient QR code generation
+- No data storage, no logging, privacy-first by design
+- Designed to be lightweight, fast, and scalable
+
+🔗 **GOAT QR API Repository:**  https://github.com/Raxku2/goat-qr-api
+
+---
+
 ## ⚡ Features
 
 - 🚀 Instant QR code generation for websites
